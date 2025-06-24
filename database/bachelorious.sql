@@ -1,15 +1,5 @@
 CREATE DATABASE bachelorious;
 USE bachelorious;
--- INSERT INTO users (username, email, password, full_name, phone, user_type, created_at) 
--- VALUES (
---    'admin',
---    'admin@bachelorious.com',
---   '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', -- password is "password"
---   'Admin User',
---  '12345678901',
---   'owner',
---  NOW()
---);
 
 -- Users table
 CREATE TABLE users (
