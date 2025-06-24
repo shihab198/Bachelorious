@@ -8,6 +8,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/style.css">
     <link rel="stylesheet" href="<?php echo BASE_URL; ?>assets/css/responsive.css">
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.png"></head>
 </head>
 <body>
     <header class="header">
